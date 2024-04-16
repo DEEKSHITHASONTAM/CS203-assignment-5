@@ -64,9 +64,9 @@ After running the code, you will see plots displaying the posterior distribution
 * Case 2:Beta(5,2)
 * Case 3:Beta(1,1)
 * Case 4:Beta(2,2)
-  
-  Each PLot includes:
-  * Posterior Distribution
-  * Maximum Likelihood Estimate (MLE)
-  * Maximum A Posteriori (MAP) Estimate
+
+Each PLot includes:
+* Posterior Distribution
+* Maximum Likelihood Estimate (MLE)
+* Maximum A Posteriori (MAP) Estimate
 
