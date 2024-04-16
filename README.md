@@ -58,12 +58,13 @@ To run the code, simply execute the Python script:
 ```bash
 python bayesian_inference.py
 ```
-##Results 
+## Results 
 After running the code, you will see plots displaying the posterior distributions and estimates for each case:
 * Case 1:Beta(2,5)
 * Case 2:Beta(5,2)
 * Case 3:Beta(1,1)
 * Case 4:Beta(2,2)
+  
   Each PLot includes:
   * Posterior Distribution
   * Maximum Likelihood Estimate (MLE)
